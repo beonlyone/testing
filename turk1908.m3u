@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,DreamTuerk
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:-1,A HABER
 rtmp://78.34.76.228:1935/live/a-haber
 #EXTINF:-1,EGE TV
