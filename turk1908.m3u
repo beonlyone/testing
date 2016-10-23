@@ -3,535 +3,281 @@
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:-1,_DreamTuerk
 https://live.dogannet.tv/S2/HLS_LIVE/dreamturktv/1000/prog_index.m3u8?key=dc622dbb5e36aa638819b0ed8c694cd0&live=true&app=com.dreamturk
-#EXTINF:-1,TR: LIGTV 1 HD
-http://62.210.162.209:58080/live/mine/mine/1279.ts
-#EXTINF:-1,TR: LIGTV 2 HD
-http://62.210.162.209:58080/live/mine/mine/1278.ts
-#EXTINF:-1,TR: LIGTV 3 HD
-http://62.210.162.209:58080/live/mine/mine/1277.ts
-#EXTINF:-1,TR: LIGTV 4 HD
-http://62.210.162.209:58080/live/mine/mine/1276.ts
-#EXTINF:-1,TR: Smart Spor
-http://62.210.162.209:58080/live/mine/mine/1553.ts
-#EXTINF:-1,TR: Smart Spor 2
-http://62.210.162.209:58080/live/mine/mine/1552.ts
-#EXTINF:-1,TR: Tivibu Spor
-http://62.210.162.209:58080/live/mine/mine/1547.ts
-#EXTINF:-1,TR: Bursa Sport
-http://62.210.162.209:58080/live/mine/mine/1546.ts
-#EXTINF:-1,TR: A SPOR HD
-http://62.210.162.209:58080/live/mine/mine/1604.ts
-#EXTINF:-1,TR: NTV Spor HD
-http://62.210.162.209:58080/live/mine/mine/1567.ts
-#EXTINF:-1,TR: TRT SPORT HD
-http://62.210.162.209:58080/live/mine/mine/1538.ts
-#EXTINF:-1,TR: FOX TV HD
-http://62.210.162.209:58080/live/mine/mine/1579.ts
-#EXTINF:-1,TR: Fox Crime
-http://62.210.162.209:58080/live/mine/mine/1580.ts
-#EXTINF:-1,TR: SALON 1 HD
-http://62.210.162.209:58080/live/mine/mine/1561.ts
-#EXTINF:-1,TR: SALON 2 HD
-http://62.210.162.209:58080/live/mine/mine/1560.ts
-#EXTINF:-1,TR: SALON 3 HD
-http://62.210.162.209:58080/live/mine/mine/1559.ts
-#EXTINF:-1,TR: LOCA 1 HD
-http://62.210.162.209:58080/live/mine/mine/1572.ts
-#EXTINF:-1,TR: LOCA 2 HD
-http://62.210.162.209:58080/live/mine/mine/1571.ts
-#EXTINF:-1,TR: LOCA 3 HD
-http://62.210.162.209:58080/live/mine/mine/1570.ts
-#EXTINF:-1,TR: Sinema TV1
-http://62.210.162.209:58080/live/mine/mine/1596.ts
-#EXTINF:-1,TR: Sinema TV2
-http://62.210.162.209:58080/live/mine/mine/1595.ts
-#EXTINF:-1,TR: Sinema TV Aksiyon
-http://62.210.162.209:58080/live/mine/mine/1594.ts
-#EXTINF:-1,TR: Sinema TV 1001
-http://62.210.162.209:58080/live/mine/mine/1593.ts
-#EXTINF:-1,TR: Moviemax Premier
-http://62.210.162.209:58080/live/mine/mine/1592.ts
-#EXTINF:-1,TR: Moviemax Premier 2
-http://62.210.162.209:58080/live/mine/mine/1591.ts
-#EXTINF:-1,TR: Moviemax Stars
-http://62.210.162.209:58080/live/mine/mine/1590.ts
-#EXTINF:-1,TR: Moviemax Stars 2
-http://62.210.162.209:58080/live/mine/mine/1589.ts
-#EXTINF:-1,TR: Movie Smart Gold
-http://62.210.162.209:58080/live/mine/mine/1588.ts
-#EXTINF:-1,TR: Moviemax Festival
-http://62.210.162.209:58080/live/mine/mine/1587.ts
-#EXTINF:-1,TR: Cartoon Network
-http://62.210.162.209:58080/live/mine/mine/1586.ts
-#EXTINF:-1,TR: TRT HD
-http://62.210.162.209:58080/live/mine/mine/1540.ts
-#EXTINF:-1,TR: TRT WORLD
-http://62.210.162.209:58080/live/mine/mine/1536.ts
-#EXTINF:-1,TR: TRT TURK HD
-http://62.210.162.209:58080/live/mine/mine/1537.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://62.210.162.209:58080/live/mine/mine/1544.ts
-#EXTINF:-1,TR: TRT Okul
-http://62.210.162.209:58080/live/mine/mine/1545.ts
-#EXTINF:-1,TR: TRT MUZIK HD
-http://62.210.162.209:58080/live/mine/mine/1539.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://62.210.162.209:58080/live/mine/mine/1541.ts
-#EXTINF:-1,TR: TRT Belgesel HD
-http://62.210.162.209:58080/live/mine/mine/1543.ts
-#EXTINF:-1,TR: Star HD
-http://62.210.162.209:58080/live/mine/mine/1551.ts
-#EXTINF:-1,TR: SHOWTV TURKIYE HD
-http://62.210.162.209:58080/live/mine/mine/1554.ts
-#EXTINF:-1,TR: SHOWTV AVRUPA HD
-http://62.210.162.209:58080/live/mine/mine/1555.ts
-#EXTINF:-1,TR: Powerturk TV HD
-http://62.210.162.209:58080/live/mine/mine/1562.ts
-#EXTINF:-1,TR: Dream TV
-http://62.210.162.209:58080/live/mine/mine/1581.ts
-#EXTINF:-1,TR: Dream Turk
-http://62.210.162.209:58080/live/mine/mine/1582.ts
-#EXTINF:-1,TR: TV 2 HD
-http://62.210.162.209:58080/live/mine/mine/1535.ts
-#EXTINF:-1,TR: TV8 HD
-http://62.210.162.209:58080/live/mine/mine/1533.ts
-#EXTINF:-1,TR: ULUSAL KANAL
-http://62.210.162.209:58080/live/mine/mine/1531.ts
-#EXTINF:-1,TR: ULKE TV HD
-http://62.210.162.209:58080/live/mine/mine/1532.ts
-#EXTINF:-1,TR: Discovery Channel
-http://62.210.162.209:58080/live/mine/mine/1550.ts
-#EXTINF:-1,TR: Yaban TV
-http://62.210.162.209:58080/live/mine/mine/1556.ts
-#EXTINF:-1,TR: SEMERKAND
-http://62.210.162.209:58080/live/mine/mine/1557.ts
-#EXTINF:-1,TR: Travel Channel HD
-http://62.210.162.209:58080/live/mine/mine/1558.ts
-#EXTINF:-1,TR: Kral TV
-http://62.210.162.209:58080/live/mine/mine/1573.ts
-#EXTINF:-1,TR: Kanal Urfa
-http://62.210.162.209:58080/live/mine/mine/1574.ts
-#EXTINF:-1,TR: Kral Pop
-http://62.210.162.209:58080/live/mine/mine/1576.ts
-#EXTINF:-1,TR: HALK TV
-http://62.210.162.209:58080/live/mine/mine/1577.ts
-#EXTINF:-1,TR: NTV
-http://62.210.162.209:58080/live/mine/mine/1597.ts
-#EXTINF:-1,TR: DIGI TV HD
-http://62.210.162.209:58080/live/mine/mine/1598.ts
-#EXTINF:-1,TR: BEYAZ TV HD
-http://62.210.162.209:58080/live/mine/mine/1600.ts
-#EXTINF:-1,TR: ATV HD
-http://62.210.162.209:58080/live/mine/mine/1601.ts
-#EXTINF:-1,TR: ATV avrupa
-http://62.210.162.209:58080/live/mine/mine/1602.ts
-#EXTINF:-1,TR: Nat Geo People
-http://62.210.162.209:58080/live/mine/mine/1603.ts
-#EXTINF:-1,TR: Minika Go
-http://62.210.162.209:58080/live/mine/mine/1566.ts
-#EXTINF:-1,TR: Minika COCUK
-http://62.210.162.209:58080/live/mine/mine/1569.ts
-#EXTINF:-1,TR: TRT COCUK
-http://62.210.162.209:58080/live/mine/mine/1542.ts
-#EXTINF:-1,TR: Minka GO
-http://62.210.162.209:58080/live/mine/mine/1534.ts
-#EXTINF:-1,TR: Disney Channel
-http://62.210.162.209:58080/live/mine/mine/1583.ts
-#EXTINF:-1,TR: PLANET COCUK
-http://62.210.162.209:58080/live/mine/mine/1565.ts
-#EXTINF:-1,TR: PLANET TURK
-http://62.210.162.209:58080/live/mine/mine/1563.ts
-#EXTINF:-1,TR: PLANET PEMBE
-http://62.210.162.209:58080/live/mine/mine/1564.ts
-#EXTINF:-1,TR: National Geographic Channel
-http://62.210.162.209:58080/live/mine/mine/1568.ts
-#EXTINF:-1,TR: Discovery Science
-http://62.210.162.209:58080/live/mine/mine/1584.ts
-#EXTINF:-1,TR: National Geographic Wild
-http://62.210.162.209:58080/live/mine/mine/1575.ts
-#EXTINF:-1,TR: TGRT Haber HD
-http://62.210.162.209:58080/live/mine/mine/1548.ts
-#EXTINF:-1,TR:  Kanal 7 Avrupa
-http://62.210.162.209:58080/live/mine/mine/1549.ts
-#EXTINF:-1,TR: A HABER HD
-http://62.210.162.209:58080/live/mine/mine/1605.ts
-#EXTINF:-1,TR: HABERTURK HD
-http://62.210.162.209:58080/live/mine/mine/1578.ts
-#EXTINF:-1,TR: CNN TURK HD
-http://62.210.162.209:58080/live/mine/mine/1585.ts
-#EXTINF:-1,TR: Bloomberg TV HD
-http://62.210.162.209:58080/live/mine/mine/1599.ts
-#EXTINF:-1,*****TURKISH*****
-http://149.202.69.8:8000/live/alimi/alimi/3181.ts
-#EXTINF:-1,TR-V2
-http://149.202.69.8:8000/live/alimi/alimi/3244.ts
-#EXTINF:-1,TR-UlkeTV
-http://149.202.69.8:8000/live/alimi/alimi/3246.ts
-#EXTINF:-1,TR-TV8
-http://149.202.69.8:8000/live/alimi/alimi/3245.ts
-#EXTINF:-1,TR-TRTSpor
-http://149.202.69.8:8000/live/alimi/alimi/3243.ts
-#EXTINF:-1,TR-TRTMuzik
-http://149.202.69.8:8000/live/alimi/alimi/3242.ts
-#EXTINF:-1,TR-TRTHaber
-http://149.202.69.8:8000/live/alimi/alimi/3241.ts
-#EXTINF:-1,TR-TRTCocuk
-http://149.202.69.8:8000/live/alimi/alimi/3240.ts
-#EXTINF:-1,TR-TRTBelgesel
-http://149.202.69.8:8000/live/alimi/alimi/3187.ts
-#EXTINF:-1,TR-TRT1
-http://149.202.69.8:8000/live/alimi/alimi/3239.ts
-#EXTINF:-1,TR-TRT
-http://149.202.69.8:8000/live/alimi/alimi/3238.ts
-#EXTINF:-1,TR-Tivibuspor
-http://149.202.69.8:8000/live/alimi/alimi/3237.ts
-#EXTINF:-1,TR-TGRTHaber
-http://149.202.69.8:8000/live/alimi/alimi/3236.ts
-#EXTINF:-1,TR-TGRTEU
-http://149.202.69.8:8000/live/alimi/alimi/3235.ts
-#EXTINF:-1,TR-TGRTBelgesel
-http://149.202.69.8:8000/live/alimi/alimi/3233.ts
-#EXTINF:-1,TR-tarTV
-http://149.202.69.8:8000/live/alimi/alimi/3232.ts
-#EXTINF:-1,TR-SportsTV
-http://149.202.69.8:8000/live/alimi/alimi/3231.ts
-#EXTINF:-1,TR-SmartSpor2
-http://149.202.69.8:8000/live/alimi/alimi/3230.ts
-#EXTINF:-1,TR-SmartSpor1
-http://149.202.69.8:8000/live/alimi/alimi/3229.ts
-#EXTINF:-1,TR-SkyTurk360
-http://149.202.69.8:8000/live/alimi/alimi/3228.ts
-#EXTINF:-1,TR-SinemaTV1
-http://149.202.69.8:8000/live/alimi/alimi/3227.ts
-#EXTINF:-1,TR-Sinema
-http://149.202.69.8:8000/live/alimi/alimi/3222.ts
-#EXTINF:-1,TR-Sinema2
-http://149.202.69.8:8000/live/alimi/alimi/3223.ts
-#EXTINF:-1,TR-Sinema3
-http://149.202.69.8:8000/live/alimi/alimi/3224.ts
-#EXTINF:-1,TR-Sinema4
-http://149.202.69.8:8000/live/alimi/alimi/3225.ts
-#EXTINF:-1,TR-Sinema5
-http://149.202.69.8:8000/live/alimi/alimi/3226.ts
-#EXTINF:-1,TR-ShowTV
-http://149.202.69.8:8000/live/alimi/alimi/3221.ts
-#EXTINF:-1,TR-Salon1
-http://149.202.69.8:8000/live/alimi/alimi/3218.ts
-#EXTINF:-1,TR-Salon2
-http://149.202.69.8:8000/live/alimi/alimi/3219.ts
-#EXTINF:-1,TR-Salon3
-http://149.202.69.8:8000/live/alimi/alimi/3220.ts
-#EXTINF:-1,TR-PlanetTurk
-http://149.202.69.8:8000/live/alimi/alimi/3234.ts
-#EXTINF:-1,TR-PlanetCocuk
-http://149.202.69.8:8000/live/alimi/alimi/3217.ts
-#EXTINF:-1,TR-NTVSpor
-http://149.202.69.8:8000/live/alimi/alimi/3216.ts
-#EXTINF:-1,TR-NTV
-http://149.202.69.8:8000/live/alimi/alimi/3215.ts
-#EXTINF:-1,TR-NatGeoWild
-http://149.202.69.8:8000/live/alimi/alimi/3214.ts
-#EXTINF:-1,TR-MoviesTR1
-http://149.202.69.8:8000/live/alimi/alimi/3247.ts
-#EXTINF:-1,TR-MoviesTR2
-http://149.202.69.8:8000/live/alimi/alimi/3248.ts
-#EXTINF:-1,TR-MoviesTR3
-http://149.202.69.8:8000/live/alimi/alimi/3249.ts
-#EXTINF:-1,TR-MoviesTR5
-http://149.202.69.8:8000/live/alimi/alimi/3250.ts
-#EXTINF:-1,TR-MoviesTR6
-http://149.202.69.8:8000/live/alimi/alimi/3251.ts
-#EXTINF:-1,TR-Movies7
-http://149.202.69.8:8000/live/alimi/alimi/3252.ts
-#EXTINF:-1,TR-Movies8
-http://149.202.69.8:8000/live/alimi/alimi/3253.ts
-#EXTINF:-1,TR-Movies9
-http://149.202.69.8:8000/live/alimi/alimi/3254.ts
-#EXTINF:-1,TR-Movies10
-http://149.202.69.8:8000/live/alimi/alimi/3255.ts
-#EXTINF:-1,TR-Movies11
-http://149.202.69.8:8000/live/alimi/alimi/3256.ts
-#EXTINF:-1,TR-Movies12
-http://149.202.69.8:8000/live/alimi/alimi/3257.ts
-#EXTINF:-1,TR-Movies14
-http://149.202.69.8:8000/live/alimi/alimi/3258.ts
-#EXTINF:-1,TR-Movies15
-http://149.202.69.8:8000/live/alimi/alimi/3259.ts
-#EXTINF:-1,TR-MoviesmartTurk
-http://149.202.69.8:8000/live/alimi/alimi/3213.ts
-#EXTINF:-1,TR-MoviesmartFestival
-http://149.202.69.8:8000/live/alimi/alimi/3211.ts
-#EXTINF:-1,TR-MoviesmartFamily
-http://149.202.69.8:8000/live/alimi/alimi/3212.ts
-#EXTINF:-1,TR-MoviemaxStars
-http://149.202.69.8:8000/live/alimi/alimi/3210.ts
-#EXTINF:-1,TR-MovieMaxPrem
-http://149.202.69.8:8000/live/alimi/alimi/3209.ts
-#EXTINF:-1,TR-Loca1
-http://149.202.69.8:8000/live/alimi/alimi/3206.ts
-#EXTINF:-1,TR-Loca2
-http://149.202.69.8:8000/live/alimi/alimi/3207.ts
-#EXTINF:-1,TR-Loca3
-http://149.202.69.8:8000/live/alimi/alimi/3208.ts
-#EXTINF:-1,TR-LIGTV1
-http://149.202.69.8:8000/live/alimi/alimi/3203.ts
-#EXTINF:-1,TR-LIGTV2
-http://149.202.69.8:8000/live/alimi/alimi/3204.ts
-#EXTINF:-1,TR-LIGTV3
-http://149.202.69.8:8000/live/alimi/alimi/3205.ts
-#EXTINF:-1,TR-KanalD
-http://149.202.69.8:8000/live/alimi/alimi/3202.ts
-#EXTINF:-1,TR-Kanal7
-http://149.202.69.8:8000/live/alimi/alimi/3201.ts
-#EXTINF:-1,TR-Kanal3
-http://149.202.69.8:8000/live/alimi/alimi/3200.ts
-#EXTINF:-1,TR-Kanal24
-http://149.202.69.8:8000/live/alimi/alimi/3199.ts
-#EXTINF:-1,TR-HistoryChannel
-http://149.202.69.8:8000/live/alimi/alimi/3198.ts
-#EXTINF:-1,TR-HalkTV
-http://149.202.69.8:8000/live/alimi/alimi/3197.ts
-#EXTINF:-1,TR-HaberTurk
-http://149.202.69.8:8000/live/alimi/alimi/3196.ts
-#EXTINF:-1,TR-FOX
-http://149.202.69.8:8000/live/alimi/alimi/3195.ts
-#EXTINF:-1,TR-DreamTV
-http://149.202.69.8:8000/live/alimi/alimi/3194.ts
-#EXTINF:-1,TR-DreamTurk
-http://149.202.69.8:8000/live/alimi/alimi/3193.ts
-#EXTINF:-1,TR-DisneyJunior
-http://149.202.69.8:8000/live/alimi/alimi/3192.ts
-#EXTINF:-1,TR-DisneyChannel
-http://149.202.69.8:8000/live/alimi/alimi/3191.ts
-#EXTINF:-1,TR-CNNTurk
-http://149.202.69.8:8000/live/alimi/alimi/3190.ts
-#EXTINF:-1,TR-Bloomberg
-http://149.202.69.8:8000/live/alimi/alimi/3189.ts
-#EXTINF:-1,TR-BeyazTV
-http://149.202.69.8:8000/live/alimi/alimi/3188.ts
-#EXTINF:-1,TR-ATV
-http://149.202.69.8:8000/live/alimi/alimi/3186.ts
-#EXTINF:-1,TR-ASpor
-http://149.202.69.8:8000/live/alimi/alimi/3184.ts
-#EXTINF:-1,TR-AksuTV
-http://149.202.69.8:8000/live/alimi/alimi/3185.ts
-#EXTINF:-1,TR-AHaber
-http://149.202.69.8:8000/live/alimi/alimi/3183.ts
-#EXTINF:-1,TR-24TV
-http://149.202.69.8:8000/live/alimi/alimi/3182.ts
-#EXTINF:-1,>>>>>TURK<<<<<<
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1250.ts
-#EXTINF:-1,TR:Kral TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2481.ts
-#EXTINF:-1,TR: Bursaspor
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1245.ts
-#EXTINF:-1,TR: TRT World
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1220.ts
-#EXTINF:-1,TR: TRT HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1215.ts
-#EXTINF:-1,TR:  Haber HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1222.ts
-#EXTINF:-1,TR: ULKE TV HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1704.ts
-#EXTINF:-1,TR: TV 8 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1709.ts
-#EXTINF:-1,TR: TRT TÜRK HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1391.ts
-#EXTINF:-1,TR: TRT SPOR
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1703.ts
-#EXTINF:-1,TR: TRT Okul
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1393.ts
-#EXTINF:-1,TR: TRT MUZIK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1416.ts
-#EXTINF:-1,TR: TRT Kurdi
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1392.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1398.ts
-#EXTINF:-1,TR: TRT COCUK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1412.ts
-#EXTINF:-1,TR: TRT ArapÃ§a
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1394.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1390.ts
-#EXTINF:-1,TR: STAR TV YEDEK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1707.ts
-#EXTINF:-1,TR: SHOW TV HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1710.ts
-#EXTINF:-1,TR: SHOW HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1399.ts
-#EXTINF:-1,TR: Samanyolu TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1233.ts
-#EXTINF:-1,TR: Smart Spor 2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2679.ts
-#EXTINF:-1,TR: Smart Spor 1
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2678.ts
-#EXTINF:-1,TR: Salon 2 3D
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2953.ts
-#EXTINF:-1,TR: Salon 1 3D
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2952.ts
-#EXTINF:-1,TR: Lig TV 4
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2951.ts
-#EXTINF:-1,TR: Salon 1
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1368.ts
-#EXTINF:-1,TR: Salon 2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1367.ts
-#EXTINF:-1,TR: NTV Spor
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1667.ts
-#EXTINF:-1,TR:VIXX-TV-KORKU
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3364.ts
-#EXTINF:-1,TR:VIXX-TV-AKSIYON
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3361.ts
-#EXTINF:-1,TR:VIXX TV TURK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3362.ts
-#EXTINF:-1,TR:VIXX TV KOMEDI
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3363.ts
-#EXTINF:-1,TR:VIXX
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3360.ts
-#EXTINF:-1,TR:TVBU SPOR 4 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3355.ts
-#EXTINF:-1,TR:TVBU SPOR 3 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3354.ts
-#EXTINF:-1,TR:TURKBOXTURK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3369.ts
-#EXTINF:-1,TR:TURKBOXPREMIUM
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3368.ts
-#EXTINF:-1,TR:TURKBOXMACERA
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3370.ts
-#EXTINF:-1,TR:TURKBOXGERMANY
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3367.ts
-#EXTINF:-1,TR:TURKBOXGERILIM
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3371.ts
-#EXTINF:-1,TR:TURKBOXCOMEDY
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3372.ts
-#EXTINF:-1,TR:TURKBOXCLASSIC
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3373.ts
-#EXTINF:-1,TR:TURKBOXAILE
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3366.ts
-#EXTINF:-1,TR:TURKBOXACTION
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3365.ts
-#EXTINF:-1,TR:LIGTV4 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3353.ts
-#EXTINF:-1,TR:GALATASARAY TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3356.ts
-#EXTINF:-1,TR:FENERBAHCE TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3358.ts
-#EXTINF:-1,TR:BURSASPOR TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3357.ts
-#EXTINF:-1,TR:BJK TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/3359.ts
-#EXTINF:-1,TR: NTV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1714.ts
-#EXTINF:-1,TR: MovieSmart Family HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1666.ts
-#EXTINF:-1,TR: Kral Pop
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1663.ts
-#EXTINF:-1,TR:SINETIVI_HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2559.ts
-#EXTINF:-1,TR:SINETIVI_ADRENALIN_2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2560.ts
-#EXTINF:-1,TR:SINETIVI_ADRENALIN
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2561.ts
-#EXTINF:-1,TR:SINETIVI_2 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2562.ts
-#EXTINF:-1,TR:SineMAX_Fear_HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2564.ts
-#EXTINF:-1,TR:FILMBOX_2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2566.ts
-#EXTINF:-1,TR: Star TV HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1143.ts
-#EXTINF:-1,TR: KANAL D HD YEDEK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1732.ts
-#EXTINF:-1,TR | CINESTAR VIZYON 1
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2602.ts
-#EXTINF:-1,TR | CINESTAR TURK 2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2604.ts
-#EXTINF:-1,TR | CINESTAR TURK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2603.ts
-#EXTINF:-1,TR | CINESTAR KOMEDI
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2605.ts
-#EXTINF:-1,TR | CINESTAR GERILIM
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2606.ts
-#EXTINF:-1,TR | CINESTAR ANIMASYON
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2607.ts
-#EXTINF:-1,TR | CINESTAR AILE
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/2608.ts
-#EXTINF:-1,TR: Kanal D HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1238.ts
-#EXTINF:-1,TR: KANAL 7 AVRUPA
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1708.ts
-#EXTINF:-1,TR: Kanal 24
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1240.ts
-#EXTINF:-1,TR: ISTANBUL TV 1
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1712.ts
-#EXTINF:-1,TR: FOX TV HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1711.ts
-#EXTINF:-1,TR: Flash TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1242.ts
-#EXTINF:-1,TR: Fanatik TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1244.ts
-#EXTINF:-1,TR: DREAM TURK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1417.ts
-#EXTINF:-1,TR: Dream TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1418.ts
-#EXTINF:-1,TR: CNN TURK HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1408.ts
-#EXTINF:-1,TR: Beyaz TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1247.ts
-#EXTINF:-1,TR: ATV HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1248.ts
-#EXTINF:-1,TR: TRT Belgesel
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1217.ts
-#EXTINF:-1,TR: TRT Avaz
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1224.ts
-#EXTINF:-1,TR: YOL TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1906.ts
-#EXTINF:-1,TR: TV2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1899.ts
-#EXTINF:-1,TR: TRT Sport HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1374.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1232.ts
-#EXTINF:-1,TR: TRT COCUK HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1898.ts
-#EXTINF:-1,TR: Star HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1378.ts
-#EXTINF:-1,TR: Sinema Korku
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1363.ts
-#EXTINF:-1,TR: Sinema Gold
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1381.ts
+#EXTINF:-1,_DreamTuerk_v2
+http://46.234.125.227:443
+#EXTINF:-1,-------- Turkish -------
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/407.ts
+#EXTINF:-1,TR: Sinema 1 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/379.ts
 #EXTINF:-1,TR: Sinema 2 HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1231.ts
-#EXTINF:-1,TR: Sinema 1
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1230.ts
-#EXTINF:-1,TR: SEMERKAND TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1904.ts
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/378.ts
+#EXTINF:-1,TR: Sinema 3 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/374.ts
+#EXTINF:-1,TR: Sinema 4 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/375.ts
+#EXTINF:-1,TR: Sinema 5 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/396.ts
+#EXTINF:-1,TR: Sinema 6 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/388.ts
+#EXTINF:-1,TR: Sinema 7 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/387.ts
+#EXTINF:-1,TR: Loca 1
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1941.ts
+#EXTINF:-1,TR: Salon 1
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/400.ts
+#EXTINF:-1,TR: Salon 2
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1942.ts
 #EXTINF:-1,TR: Salon 3
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1366.ts
-#EXTINF:-1,TR: PowerTurk
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1234.ts
-#EXTINF:-1,TR: Minka GO
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1414.ts
-#EXTINF:-1,TR: Minka Cocuk
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1413.ts
-#EXTINF:-1,TR: MINIKA COCUK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1914.ts
-#EXTINF:-1,TR: LOCA 3
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1369.ts
-#EXTINF:-1,TR: LOCA 2
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1370.ts
-#EXTINF:-1,TR: Kanal TÃ¼rk
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1236.ts
-#EXTINF:-1,TR: KANAL A HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1901.ts
-#EXTINF:-1,TR: HALK TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1910.ts
-#EXTINF:-1,TR: HABER TURK HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1907.ts
-#EXTINF:-1,TR: FOX HD
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1241.ts
-#EXTINF:-1,TR: FIL TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1243.ts
-#EXTINF:-1,TR: BENGU TURK
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/1908.ts
-#EXTINF:-1,TR: Ballkan TV
-http://163.172.23.24:1557/live/enigma16/SLk9h4i7Ba/875.ts
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1943.ts
+#EXTINF:-1,TR: Salon 4
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1948.ts
+#EXTINF:-1,TR: Liga tv 1
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/406.ts
+#EXTINF:-1,TR: Liga tv 2
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/405.ts
+#EXTINF:-1,TR: Liga tv 3
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/404.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/399.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1965.ts
+#EXTINF:-1,TR: Smart Sport HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/373.ts
+#EXTINF:-1,TR: Smart Sport 2 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1964.ts
+#EXTINF:-1,TR: Bursa Spor tv
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/403.ts
+#EXTINF:-1,TR: TRT Sports
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/402.ts
+#EXTINF:-1,TR: NTV Spor
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/389.ts
+#EXTINF:-1,TR: Show Turk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/393.ts
+#EXTINF:-1,TR: PLanet Turk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/385.ts
+#EXTINF:-1,TR: Show TV
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/394.ts
+#EXTINF:-1,TR: Star tv HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/384.ts
+#EXTINF:-1,TR: ATV
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/380.ts
+#EXTINF:-1,TR: Istanbul 1 HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/395.ts
+#EXTINF:-1,TR: Fox TV HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/390.ts
+#EXTINF:-1,TR: TRT 1
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/377.ts
+#EXTINF:-1,TR: TRT Muzik
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/376.ts
+#EXTINF:-1,TR: TRT Turk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/381.ts
+#EXTINF:-1,TR: TRT HABER HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/371.ts
+#EXTINF:-1,TR: TRT AVAZ
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/386.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1938.ts
+#EXTINF:-1,TR: TRT Okul
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1939.ts
+#EXTINF:-1,TR: TRT COCUK
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1940.ts
+#EXTINF:-1,TR: TRT BELGESEL
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1937.ts
+#EXTINF:-1,TR: TGRT Haber
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1949.ts
+#EXTINF:-1,TR: Kanal Urfa
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1945.ts
+#EXTINF:-1,TR: Kanal Turk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1947.ts
+#EXTINF:-1,TR: Kanal D
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/398.ts
+#EXTINF:-1,TR: Kanal A
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/392.ts
+#EXTINF:-1,TR: Kanal 3
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1961.ts
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1958.ts
+#EXTINF:-1,TR: Eurosport 2 Avrupa
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1959.ts
+#EXTINF:-1,TR: ATV Avrupa
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1957.ts
+#EXTINF:-1,TR: Power Turk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1946.ts
+#EXTINF:-1,TR: World Travel Channel
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1956.ts
+#EXTINF:-1,TR: TV 2
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1960.ts
+#EXTINF:-1,TR: Teledunya Info
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1962.ts
+#EXTINF:-1,TR: Minika Go
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1963.ts
+#EXTINF:-1,TR: Dream Turk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1944.ts
+#EXTINF:-1,TR: DRT Denizli
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1950.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/391.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1951.ts
+#EXTINF:-1,TR: Euro D
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1952.ts
+#EXTINF:-1,TR: TV 41
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1954.ts
+#EXTINF:-1,TR: Cartoon NetWork
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1953.ts
+#EXTINF:-1,TR: Disney Channle
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/397.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/1955.ts
+#EXTINF:-1,TR: National Geographic HD
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/383.ts
+#EXTINF:-1,TR: TV8
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/382.ts
+#EXTINF:-1,TR: Kral TV
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/368.ts
+#EXTINF:-1,TR: Hilal TV
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/372.ts
+#EXTINF:-1,TR: Kral Pop
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/369.ts
+#EXTINF:-1,TR: TV Kayseri
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/401.ts
+#EXTINF:-1,TR: CNN TURK
+http://ipsatpro.com:8000/live/odriscoll/odriscoll/370.ts
+#EXTINF:-1,-------- Turkish -------
+http://ipsatpro.com:8000/live/reg/reg/407.ts
+#EXTINF:-1,TR: Sinema 1 HD
+http://ipsatpro.com:8000/live/reg/reg/379.ts
+#EXTINF:-1,TR: Sinema 2 HD
+http://ipsatpro.com:8000/live/reg/reg/378.ts
+#EXTINF:-1,TR: Sinema 3 HD
+http://ipsatpro.com:8000/live/reg/reg/374.ts
+#EXTINF:-1,TR: Sinema 4 HD
+http://ipsatpro.com:8000/live/reg/reg/375.ts
+#EXTINF:-1,TR: Sinema 5 HD
+http://ipsatpro.com:8000/live/reg/reg/396.ts
+#EXTINF:-1,TR: Sinema 6 HD
+http://ipsatpro.com:8000/live/reg/reg/388.ts
+#EXTINF:-1,TR: Sinema 7 HD
+http://ipsatpro.com:8000/live/reg/reg/387.ts
+#EXTINF:-1,TR: Loca 1
+http://ipsatpro.com:8000/live/reg/reg/1941.ts
+#EXTINF:-1,TR: Salon 1
+http://ipsatpro.com:8000/live/reg/reg/400.ts
+#EXTINF:-1,TR: Salon 2
+http://ipsatpro.com:8000/live/reg/reg/1942.ts
+#EXTINF:-1,TR: Salon 3
+http://ipsatpro.com:8000/live/reg/reg/1943.ts
+#EXTINF:-1,TR: Salon 4
+http://ipsatpro.com:8000/live/reg/reg/1948.ts
+#EXTINF:-1,TR: Liga tv 1
+http://ipsatpro.com:8000/live/reg/reg/406.ts
+#EXTINF:-1,TR: Liga tv 2
+http://ipsatpro.com:8000/live/reg/reg/405.ts
+#EXTINF:-1,TR: Liga tv 3
+http://ipsatpro.com:8000/live/reg/reg/404.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://ipsatpro.com:8000/live/reg/reg/399.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://ipsatpro.com:8000/live/reg/reg/1965.ts
+#EXTINF:-1,TR: Smart Sport HD
+http://ipsatpro.com:8000/live/reg/reg/373.ts
+#EXTINF:-1,TR: Smart Sport 2 HD
+http://ipsatpro.com:8000/live/reg/reg/1964.ts
+#EXTINF:-1,TR: Bursa Spor tv
+http://ipsatpro.com:8000/live/reg/reg/403.ts
+#EXTINF:-1,TR: TRT Sports
+http://ipsatpro.com:8000/live/reg/reg/402.ts
+#EXTINF:-1,TR: NTV Spor
+http://ipsatpro.com:8000/live/reg/reg/389.ts
+#EXTINF:-1,TR: Show Turk
+http://ipsatpro.com:8000/live/reg/reg/393.ts
+#EXTINF:-1,TR: PLanet Turk
+http://ipsatpro.com:8000/live/reg/reg/385.ts
+#EXTINF:-1,TR: Show TV
+http://ipsatpro.com:8000/live/reg/reg/394.ts
+#EXTINF:-1,TR: Star tv HD
+http://ipsatpro.com:8000/live/reg/reg/384.ts
+#EXTINF:-1,TR: ATV
+http://ipsatpro.com:8000/live/reg/reg/380.ts
+#EXTINF:-1,TR: Istanbul 1 HD
+http://ipsatpro.com:8000/live/reg/reg/395.ts
+#EXTINF:-1,TR: Fox TV HD
+http://ipsatpro.com:8000/live/reg/reg/390.ts
+#EXTINF:-1,TR: TRT 1
+http://ipsatpro.com:8000/live/reg/reg/377.ts
+#EXTINF:-1,TR: TRT Muzik
+http://ipsatpro.com:8000/live/reg/reg/376.ts
+#EXTINF:-1,TR: TRT Turk
+http://ipsatpro.com:8000/live/reg/reg/381.ts
+#EXTINF:-1,TR: TRT HABER HD
+http://ipsatpro.com:8000/live/reg/reg/371.ts
+#EXTINF:-1,TR: TRT AVAZ
+http://ipsatpro.com:8000/live/reg/reg/386.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://ipsatpro.com:8000/live/reg/reg/1938.ts
+#EXTINF:-1,TR: TRT Okul
+http://ipsatpro.com:8000/live/reg/reg/1939.ts
+#EXTINF:-1,TR: TRT COCUK
+http://ipsatpro.com:8000/live/reg/reg/1940.ts
+#EXTINF:-1,TR: TRT BELGESEL
+http://ipsatpro.com:8000/live/reg/reg/1937.ts
+#EXTINF:-1,TR: TGRT Haber
+http://ipsatpro.com:8000/live/reg/reg/1949.ts
+#EXTINF:-1,TR: Kanal Urfa
+http://ipsatpro.com:8000/live/reg/reg/1945.ts
+#EXTINF:-1,TR: Kanal Turk
+http://ipsatpro.com:8000/live/reg/reg/1947.ts
+#EXTINF:-1,TR: Kanal D
+http://ipsatpro.com:8000/live/reg/reg/398.ts
+#EXTINF:-1,TR: Kanal A
+http://ipsatpro.com:8000/live/reg/reg/392.ts
+#EXTINF:-1,TR: Kanal 3
+http://ipsatpro.com:8000/live/reg/reg/1961.ts
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://ipsatpro.com:8000/live/reg/reg/1958.ts
+#EXTINF:-1,TR: Eurosport 2 Avrupa
+http://ipsatpro.com:8000/live/reg/reg/1959.ts
+#EXTINF:-1,TR: ATV Avrupa
+http://ipsatpro.com:8000/live/reg/reg/1957.ts
+#EXTINF:-1,TR: Power Turk
+http://ipsatpro.com:8000/live/reg/reg/1946.ts
+#EXTINF:-1,TR: World Travel Channel
+http://ipsatpro.com:8000/live/reg/reg/1956.ts
+#EXTINF:-1,TR: TV 2
+http://ipsatpro.com:8000/live/reg/reg/1960.ts
+#EXTINF:-1,TR: Teledunya Info
+http://ipsatpro.com:8000/live/reg/reg/1962.ts
+#EXTINF:-1,TR: Minika Go
+http://ipsatpro.com:8000/live/reg/reg/1963.ts
+#EXTINF:-1,TR: Dream Turk
+http://ipsatpro.com:8000/live/reg/reg/1944.ts
+#EXTINF:-1,TR: DRT Denizli
+http://ipsatpro.com:8000/live/reg/reg/1950.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://ipsatpro.com:8000/live/reg/reg/391.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://ipsatpro.com:8000/live/reg/reg/1951.ts
+#EXTINF:-1,TR: Euro D
+http://ipsatpro.com:8000/live/reg/reg/1952.ts
+#EXTINF:-1,TR: TV 41
+http://ipsatpro.com:8000/live/reg/reg/1954.ts
+#EXTINF:-1,TR: Cartoon NetWork
+http://ipsatpro.com:8000/live/reg/reg/1953.ts
+#EXTINF:-1,TR: Disney Channle
+http://ipsatpro.com:8000/live/reg/reg/397.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://ipsatpro.com:8000/live/reg/reg/1955.ts
+#EXTINF:-1,TR: National Geographic HD
+http://ipsatpro.com:8000/live/reg/reg/383.ts
+#EXTINF:-1,TR: TV8
+http://ipsatpro.com:8000/live/reg/reg/382.ts
+#EXTINF:-1,TR: Kral TV
+http://ipsatpro.com:8000/live/reg/reg/368.ts
+#EXTINF:-1,TR: Hilal TV
+http://ipsatpro.com:8000/live/reg/reg/372.ts
+#EXTINF:-1,TR: Kral Pop
+http://ipsatpro.com:8000/live/reg/reg/369.ts
+#EXTINF:-1,TR: TV Kayseri
+http://ipsatpro.com:8000/live/reg/reg/401.ts
+#EXTINF:-1,TR: CNN TURK
+http://ipsatpro.com:8000/live/reg/reg/370.ts
