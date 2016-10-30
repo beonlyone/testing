@@ -6,278 +6,642 @@ https://live.dogannet.tv/S2/HLS_LIVE/dreamturktv/1000/prog_index.m3u8?key=dc622d
 #EXTINF:-1,_DreamTuerk_v2
 http://46.234.125.227:443
 #EXTINF:-1,-------- Turkish -------
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/407.ts
-#EXTINF:-1,TR: Sinema 1 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/379.ts
-#EXTINF:-1,TR: Sinema 2 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/378.ts
-#EXTINF:-1,TR: Sinema 3 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/374.ts
-#EXTINF:-1,TR: Sinema 4 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/375.ts
-#EXTINF:-1,TR: Sinema 5 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/396.ts
-#EXTINF:-1,TR: Sinema 6 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/388.ts
-#EXTINF:-1,TR: Sinema 7 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/387.ts
-#EXTINF:-1,TR: Loca 1
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1941.ts
-#EXTINF:-1,TR: Salon 1
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/400.ts
-#EXTINF:-1,TR: Salon 2
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1942.ts
-#EXTINF:-1,TR: Salon 3
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1943.ts
-#EXTINF:-1,TR: Salon 4
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1948.ts
-#EXTINF:-1,TR: Liga tv 1
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/406.ts
-#EXTINF:-1,TR: Liga tv 2
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/405.ts
-#EXTINF:-1,TR: Liga tv 3
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/404.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/399.ts
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1965.ts
-#EXTINF:-1,TR: Smart Sport HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/373.ts
-#EXTINF:-1,TR: Smart Sport 2 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1964.ts
-#EXTINF:-1,TR: Bursa Spor tv
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/403.ts
-#EXTINF:-1,TR: TRT Sports
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/402.ts
-#EXTINF:-1,TR: NTV Spor
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/389.ts
-#EXTINF:-1,TR: Show Turk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/393.ts
-#EXTINF:-1,TR: PLanet Turk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/385.ts
-#EXTINF:-1,TR: Show TV
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/394.ts
-#EXTINF:-1,TR: Star tv HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/384.ts
-#EXTINF:-1,TR: ATV
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/380.ts
-#EXTINF:-1,TR: Istanbul 1 HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/395.ts
-#EXTINF:-1,TR: Fox TV HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/390.ts
-#EXTINF:-1,TR: TRT 1
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/377.ts
-#EXTINF:-1,TR: TRT Muzik
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/376.ts
-#EXTINF:-1,TR: TRT Turk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/381.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/371.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/386.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1938.ts
-#EXTINF:-1,TR: TRT Okul
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1939.ts
-#EXTINF:-1,TR: TRT COCUK
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1940.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1937.ts
-#EXTINF:-1,TR: TGRT Haber
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1949.ts
-#EXTINF:-1,TR: Kanal Urfa
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1945.ts
-#EXTINF:-1,TR: Kanal Turk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1947.ts
-#EXTINF:-1,TR: Kanal D
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/398.ts
-#EXTINF:-1,TR: Kanal A
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/392.ts
-#EXTINF:-1,TR: Kanal 3
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1961.ts
-#EXTINF:-1,TR: Kanal 7 Avrupa
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1958.ts
-#EXTINF:-1,TR: Eurosport 2 Avrupa
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1959.ts
-#EXTINF:-1,TR: ATV Avrupa
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1957.ts
-#EXTINF:-1,TR: Power Turk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1946.ts
-#EXTINF:-1,TR: World Travel Channel
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1956.ts
-#EXTINF:-1,TR: TV 2
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1960.ts
-#EXTINF:-1,TR: Teledunya Info
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1962.ts
-#EXTINF:-1,TR: Minika Go
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1963.ts
-#EXTINF:-1,TR: Dream Turk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1944.ts
-#EXTINF:-1,TR: DRT Denizli
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1950.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/391.ts
-#EXTINF:-1,TR: Beyaz TV HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1951.ts
-#EXTINF:-1,TR: Euro D
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1952.ts
-#EXTINF:-1,TR: TV 41
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1954.ts
-#EXTINF:-1,TR: Cartoon NetWork
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1953.ts
-#EXTINF:-1,TR: Disney Channle
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/397.ts
-#EXTINF:-1,TR: Animal Planet HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/1955.ts
-#EXTINF:-1,TR: National Geographic HD
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/383.ts
-#EXTINF:-1,TR: TV8
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/382.ts
-#EXTINF:-1,TR: Kral TV
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/368.ts
-#EXTINF:-1,TR: Hilal TV
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/372.ts
-#EXTINF:-1,TR: Kral Pop
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/369.ts
-#EXTINF:-1,TR: TV Kayseri
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/401.ts
-#EXTINF:-1,TR: CNN TURK
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/370.ts
-#EXTINF:-1,-------- Turkish -------
-http://ipsatpro.com:8000/live/reg/reg/407.ts
-#EXTINF:-1,TR: Sinema 1 HD
-http://ipsatpro.com:8000/live/reg/reg/379.ts
-#EXTINF:-1,TR: Sinema 2 HD
-http://ipsatpro.com:8000/live/reg/reg/378.ts
-#EXTINF:-1,TR: Sinema 3 HD
-http://ipsatpro.com:8000/live/reg/reg/374.ts
-#EXTINF:-1,TR: Sinema 4 HD
-http://ipsatpro.com:8000/live/reg/reg/375.ts
-#EXTINF:-1,TR: Sinema 5 HD
-http://ipsatpro.com:8000/live/reg/reg/396.ts
-#EXTINF:-1,TR: Sinema 6 HD
-http://ipsatpro.com:8000/live/reg/reg/388.ts
-#EXTINF:-1,TR: Sinema 7 HD
-http://ipsatpro.com:8000/live/reg/reg/387.ts
-#EXTINF:-1,TR: Loca 1
-http://ipsatpro.com:8000/live/reg/reg/1941.ts
-#EXTINF:-1,TR: Salon 1
-http://ipsatpro.com:8000/live/reg/reg/400.ts
-#EXTINF:-1,TR: Salon 2
-http://ipsatpro.com:8000/live/reg/reg/1942.ts
-#EXTINF:-1,TR: Salon 3
-http://ipsatpro.com:8000/live/reg/reg/1943.ts
-#EXTINF:-1,TR: Salon 4
-http://ipsatpro.com:8000/live/reg/reg/1948.ts
-#EXTINF:-1,TR: Liga tv 1
-http://ipsatpro.com:8000/live/reg/reg/406.ts
-#EXTINF:-1,TR: Liga tv 2
-http://ipsatpro.com:8000/live/reg/reg/405.ts
-#EXTINF:-1,TR: Liga tv 3
-http://ipsatpro.com:8000/live/reg/reg/404.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://ipsatpro.com:8000/live/reg/reg/399.ts
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://ipsatpro.com:8000/live/reg/reg/1965.ts
-#EXTINF:-1,TR: Smart Sport HD
-http://ipsatpro.com:8000/live/reg/reg/373.ts
-#EXTINF:-1,TR: Smart Sport 2 HD
-http://ipsatpro.com:8000/live/reg/reg/1964.ts
-#EXTINF:-1,TR: Bursa Spor tv
-http://ipsatpro.com:8000/live/reg/reg/403.ts
-#EXTINF:-1,TR: TRT Sports
-http://ipsatpro.com:8000/live/reg/reg/402.ts
-#EXTINF:-1,TR: NTV Spor
-http://ipsatpro.com:8000/live/reg/reg/389.ts
-#EXTINF:-1,TR: Show Turk
-http://ipsatpro.com:8000/live/reg/reg/393.ts
-#EXTINF:-1,TR: PLanet Turk
-http://ipsatpro.com:8000/live/reg/reg/385.ts
-#EXTINF:-1,TR: Show TV
-http://ipsatpro.com:8000/live/reg/reg/394.ts
-#EXTINF:-1,TR: Star tv HD
-http://ipsatpro.com:8000/live/reg/reg/384.ts
-#EXTINF:-1,TR: ATV
-http://ipsatpro.com:8000/live/reg/reg/380.ts
-#EXTINF:-1,TR: Istanbul 1 HD
-http://ipsatpro.com:8000/live/reg/reg/395.ts
-#EXTINF:-1,TR: Fox TV HD
-http://ipsatpro.com:8000/live/reg/reg/390.ts
-#EXTINF:-1,TR: TRT 1
-http://ipsatpro.com:8000/live/reg/reg/377.ts
-#EXTINF:-1,TR: TRT Muzik
-http://ipsatpro.com:8000/live/reg/reg/376.ts
-#EXTINF:-1,TR: TRT Turk
-http://ipsatpro.com:8000/live/reg/reg/381.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://ipsatpro.com:8000/live/reg/reg/371.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://ipsatpro.com:8000/live/reg/reg/386.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://ipsatpro.com:8000/live/reg/reg/1938.ts
-#EXTINF:-1,TR: TRT Okul
-http://ipsatpro.com:8000/live/reg/reg/1939.ts
-#EXTINF:-1,TR: TRT COCUK
-http://ipsatpro.com:8000/live/reg/reg/1940.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://ipsatpro.com:8000/live/reg/reg/1937.ts
-#EXTINF:-1,TR: TGRT Haber
-http://ipsatpro.com:8000/live/reg/reg/1949.ts
-#EXTINF:-1,TR: Kanal Urfa
-http://ipsatpro.com:8000/live/reg/reg/1945.ts
-#EXTINF:-1,TR: Kanal Turk
-http://ipsatpro.com:8000/live/reg/reg/1947.ts
-#EXTINF:-1,TR: Kanal D
-http://ipsatpro.com:8000/live/reg/reg/398.ts
-#EXTINF:-1,TR: Kanal A
-http://ipsatpro.com:8000/live/reg/reg/392.ts
-#EXTINF:-1,TR: Kanal 3
-http://ipsatpro.com:8000/live/reg/reg/1961.ts
-#EXTINF:-1,TR: Kanal 7 Avrupa
-http://ipsatpro.com:8000/live/reg/reg/1958.ts
-#EXTINF:-1,TR: Eurosport 2 Avrupa
-http://ipsatpro.com:8000/live/reg/reg/1959.ts
-#EXTINF:-1,TR: ATV Avrupa
-http://ipsatpro.com:8000/live/reg/reg/1957.ts
-#EXTINF:-1,TR: Power Turk
-http://ipsatpro.com:8000/live/reg/reg/1946.ts
-#EXTINF:-1,TR: World Travel Channel
-http://ipsatpro.com:8000/live/reg/reg/1956.ts
-#EXTINF:-1,TR: TV 2
-http://ipsatpro.com:8000/live/reg/reg/1960.ts
-#EXTINF:-1,TR: Teledunya Info
-http://ipsatpro.com:8000/live/reg/reg/1962.ts
-#EXTINF:-1,TR: Minika Go
-http://ipsatpro.com:8000/live/reg/reg/1963.ts
-#EXTINF:-1,TR: Dream Turk
-http://ipsatpro.com:8000/live/reg/reg/1944.ts
-#EXTINF:-1,TR: DRT Denizli
-http://ipsatpro.com:8000/live/reg/reg/1950.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://ipsatpro.com:8000/live/reg/reg/391.ts
-#EXTINF:-1,TR: Beyaz TV HD
-http://ipsatpro.com:8000/live/reg/reg/1951.ts
-#EXTINF:-1,TR: Euro D
-http://ipsatpro.com:8000/live/reg/reg/1952.ts
-#EXTINF:-1,TR: TV 41
-http://ipsatpro.com:8000/live/reg/reg/1954.ts
-#EXTINF:-1,TR: Cartoon NetWork
-http://ipsatpro.com:8000/live/reg/reg/1953.ts
-#EXTINF:-1,TR: Disney Channle
-http://ipsatpro.com:8000/live/reg/reg/397.ts
-#EXTINF:-1,TR: Animal Planet HD
-http://ipsatpro.com:8000/live/reg/reg/1955.ts
-#EXTINF:-1,TR: National Geographic HD
-http://ipsatpro.com:8000/live/reg/reg/383.ts
-#EXTINF:-1,TR: TV8
-http://ipsatpro.com:8000/live/reg/reg/382.ts
-#EXTINF:-1,TR: Kral TV
-http://ipsatpro.com:8000/live/reg/reg/368.ts
-#EXTINF:-1,TR: Hilal TV
-http://ipsatpro.com:8000/live/reg/reg/372.ts
-#EXTINF:-1,TR: Kral Pop
-http://ipsatpro.com:8000/live/reg/reg/369.ts
-#EXTINF:-1,TR: TV Kayseri
-http://ipsatpro.com:8000/live/reg/reg/401.ts
-#EXTINF:-1,TR: CNN TURK
-http://ipsatpro.com:8000/live/reg/reg/370.ts
+#EXTINF:-1,TR-24-HABER
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3897.ts
+#EXTINF:-1,TR-A-HABER
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3889.ts
+#EXTINF:-1,TR-A-SPOR
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3859.ts
+#EXTINF:-1,TR-ANIMAL-PLANET
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3913.ts
+#EXTINF:-1,TR-ATV-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3231.ts
+#EXTINF:-1,TR-ATV-SD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3851.ts
+#EXTINF:-1,TR-BEYAZ-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/580.ts
+#EXTINF:-1,TR-BJKTV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3865.ts
+#EXTINF:-1,TR-BLOOMBERG-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3891.ts
+#EXTINF:-1,TR-CNN-TURK-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/574.ts
+#EXTINF:-1,TR-DA-VINCI-LEARNING
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3921.ts
+#EXTINF:-1,TR-DAVINCI-LEARNING
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3918.ts
+#EXTINF:-1,TR-DISCOVERY-CHANNEL
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3916.ts
+#EXTINF:-1,TR-DREAM-TURK
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3894.ts
+#EXTINF:-1,TR-DREAM-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3893.ts
+#EXTINF:-1,TR-FBTV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3864.ts
+#EXTINF:-1,TR-FLASH-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/570.ts
+#EXTINF:-1,TR-FOX-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3854.ts
+#EXTINF:-1,TR-FOX-SD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3855.ts
+#EXTINF:-1,TR-FX-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3906.ts
+#EXTINF:-1,TR-GSTV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3863.ts
+#EXTINF:-1,TR-HABER-TURK-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3886.ts
+#EXTINF:-1,TR-KANAL-7-AVRUPA
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/560.ts
+#EXTINF:-1,TR-KANAL-7-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/565.ts
+#EXTINF:-1,TR-KANAL-A
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3888.ts
+#EXTINF:-1,TR-KANAL-D-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3852.ts
+#EXTINF:-1,TR-KANAL-KABE
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/569.ts
+#EXTINF:-1,TR-KRAL-POP
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3903.ts
+#EXTINF:-1,TR-LOCA3-FULLHD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/2119.ts
+#EXTINF:-1,TR-NTV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3861.ts
+#EXTINF:-1,TR-NTV-SPOR
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3868.ts
+#EXTINF:-1,TR-NUMBER-ONE-TURK
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3905.ts
+#EXTINF:-1,TR-NUMBER-ONE-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3904.ts
+#EXTINF:-1,TR-OLAY-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3899.ts
+#EXTINF:-1,TR-POWER-TURK-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3233.ts
+#EXTINF:-1,TR-SAMANYOLU-TV-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3858.ts
+#EXTINF:-1,TR-SHOW-TV-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3848.ts
+#EXTINF:-1,TR-SHOWMAX-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3850.ts
+#EXTINF:-1,TR-SHOWTURK
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/585.ts
+#EXTINF:-1,TR-SHOWTV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/100.ts
+#EXTINF:-1,TR-SINEMA-TV-AKSIYON-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3869.ts
+#EXTINF:-1,TR-SINETIVI_2 HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3528.ts
+#EXTINF:-1,TR-SINETIVI_ADRENALIN
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3529.ts
+#EXTINF:-1,TR-SINETIVI_HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3527.ts
+#EXTINF:-1,TR-SKYTURK-360
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3902.ts
+#EXTINF:-1,TR-STAR-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3232.ts
+#EXTINF:-1,TR-STAR-SD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3847.ts
+#EXTINF:-1,TR-STAR-TV-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3846.ts
+#EXTINF:-1,TR-TARIM-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3876.ts
+#EXTINF:-1,TR-TAY-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3895.ts
+#EXTINF:-1,TR-TGRT-HABER
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3901.ts
+#EXTINF:-1,TR-TRT-1-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/536.ts
+#EXTINF:-1,TR-TRT-COCUK
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3880.ts
+#EXTINF:-1,TR-TRT-HABER-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3845.ts
+#EXTINF:-1,TR-TRT-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/537.ts
+#EXTINF:-1,TR-TRT-SPOR
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3843.ts
+#EXTINF:-1,TR-TRT-TURK
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/538.ts
+#EXTINF:-1,TR-TRT1-SD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3841.ts
+#EXTINF:-1,TR-TV-2-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3871.ts
+#EXTINF:-1,TR-TV-8-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3856.ts
+#EXTINF:-1,TR-TV8-SD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3857.ts
+#EXTINF:-1,TR-ULKE-HD
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3874.ts
+#EXTINF:-1,TR-ULKE-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/600.ts
+#EXTINF:-1,TR-WORLD-TRAVEL-CHANNEL
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3911.ts
+#EXTINF:-1,TR-YABAN-TV
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/3892.ts
+#EXTINF:-1,-------- America USA -------
+#EXTINF:-1,NBC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/1.mpegts
+#EXTINF:-1,A&E
+http://46.166.162.35:9090/load/b0922f3fa8aa/2.mpegts
+#EXTINF:-1,ABC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/3.mpegts
+#EXTINF:-1,AMC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.mpegts
+#EXTINF:-1,Bravo US
+http://46.166.162.35:9090/load/b0922f3fa8aa/5.mpegts
+#EXTINF:-1,E! US
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.mpegts
+#EXTINF:-1,Fox US
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.mpegts
+#EXTINF:-1,FX US
+http://46.166.162.35:9090/load/b0922f3fa8aa/8.mpegts
+#EXTINF:-1,SYFY US
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.mpegts
+#EXTINF:-1,Spike US
+http://46.166.162.35:9090/load/b0922f3fa8aa/12.mpegts
+#EXTINF:-1,TBS US
+http://46.166.162.35:9090/load/b0922f3fa8aa/13.mpegts
+#EXTINF:-1,LMN
+http://46.166.162.35:9090/load/b0922f3fa8aa/9.mpegts
+#EXTINF:-1,TNT US
+http://46.166.162.35:9090/load/b0922f3fa8aa/10.mpegts
+#EXTINF:-1,Comedy Central US
+http://46.166.162.35:9090/load/b0922f3fa8aa/14.mpegts
+#EXTINF:-1,Lifetime US
+http://46.166.162.35:9090/load/b0922f3fa8aa/15.mpegts
+#EXTINF:-1,Hallmark Channel US
+http://46.166.162.35:9090/load/b0922f3fa8aa/16.mpegts
+#EXTINF:-1,USA Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/17.mpegts
+#EXTINF:-1,TLC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/18.mpegts
+#EXTINF:-1,HBO East
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.mpegts
+#EXTINF:-1,HBO Comedy
+http://46.166.162.35:9090/load/b0922f3fa8aa/20.mpegts
+#EXTINF:-1,HBO Zone
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.mpegts
+#EXTINF:-1,HBO Signature
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.mpegts
+#EXTINF:-1,Cinemax East
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.mpegts
+#EXTINF:-1,Cinemax 5 StarMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/24.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.mpegts
+#EXTINF:-1,Showtime EAST
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.mpegts
+#EXTINF:-1,Showtime 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.mpegts
+#EXTINF:-1,Showtime Showcase
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.mpegts
+#EXTINF:-1,Starz East
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.mpegts
+#EXTINF:-1,Starz Edge
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.mpegts
+#EXTINF:-1,https://iptv.zone/en Starz Cinema
+http://46.166.162.35:9090/load/b0922f3fa8aa/33.mpegts
+#EXTINF:-1,Starz Encore
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.mpegts
+#EXTINF:-1,HISTORY US
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.mpegts
+#EXTINF:-1,H2 USA
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.mpegts
+#EXTINF:-1,Animal Planet US
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.mpegts
+#EXTINF:-1,Discovery Channel US
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.mpegts
+#EXTINF:-1,National Geographic US
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.mpegts
+#EXTINF:-1,Nat Geo Wild US
+http://46.166.162.35:9090/load/b0922f3fa8aa/40.mpegts
+#EXTINF:-1,Investigation Discovery US
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.mpegts
+#EXTINF:-1,NBC Sports US
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.mpegts
+#EXTINF:-1,ESPN US
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.mpegts
+#EXTINF:-1,ESPN 2 US
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.mpegts
+#EXTINF:-1,FOX Sports 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.mpegts
+#EXTINF:-1,FOX Sports 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.mpegts
+#EXTINF:-1,NBA TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/47.mpegts
+#EXTINF:-1,MLB Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/48.mpegts
+#EXTINF:-1,NFL Network Now
+http://46.166.162.35:9090/load/b0922f3fa8aa/49.mpegts
+#EXTINF:-1,WWE Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.mpegts
+#EXTINF:-1,NHL US
+http://46.166.162.35:9090/load/b0922f3fa8aa/51.mpegts
+#EXTINF:-1,TSN1
+http://46.166.162.35:9090/load/b0922f3fa8aa/52.mpegts
+#EXTINF:-1,TSN2
+http://46.166.162.35:9090/load/b0922f3fa8aa/53.mpegts
+#EXTINF:-1,TSN3
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.mpegts
+#EXTINF:-1,TSN4
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.mpegts
+#EXTINF:-1,TSN5
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.mpegts
+#EXTINF:-1,SPORTSNET ONE
+http://46.166.162.35:9090/load/b0922f3fa8aa/57.mpegts
+#EXTINF:-1,SPORTSNET 360
+http://46.166.162.35:9090/load/b0922f3fa8aa/58.mpegts
+#EXTINF:-1,SPORTSNET WORLD
+http://46.166.162.35:9090/load/b0922f3fa8aa/59.mpegts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://46.166.162.35:9090/load/b0922f3fa8aa/60.mpegts
+ #EXTINF:-1,USA-Bein-Sports-HD
+http://beout-iptv.com:7777/live/walid/walid1/4354.ts
+#EXTINF:-1,USA-Fox-Sports-1
+http://beout-iptv.com:7777/live/walid/walid1/4353.ts
+#EXTINF:-1,USA-Fox-Sports-2
+http://beout-iptv.com:7777/live/walid/walid1/4351.ts
+#EXTINF:-1,USA-Astro-SUPERSPORT-1
+http://beout-iptv.com:7777/live/walid/walid1/4358.ts
+#EXTINF:-1,USA-Astro-SUPERSPORT-2
+http://beout-iptv.com:7777/live/walid/walid1/4357.ts
+#EXTINF:-1,USA-Astro-SUPERSPORT-3
+http://beout-iptv.com:7777/live/walid/walid1/4356.ts
+#EXTINF:-1,USA-Astro-SUPERSPORT-4
+http://beout-iptv.com:7777/live/walid/walid1/4355.ts
+#EXTINF:-1,USA-NBA-US-HD
+http://beout-iptv.com:7777/live/walid/walid1/4349.ts
+#EXTINF:-1,USA-TSN-1
+http://beout-iptv.com:7777/live/walid/walid1/4346.ts
+#EXTINF:-1,USA-TSN-2
+http://beout-iptv.com:7777/live/walid/walid1/4345.ts
+#EXTINF:-1,USA-TSN-4
+http://beout-iptv.com:7777/live/walid/walid1/4344.ts
+#EXTINF:-1,US-Fox-Sports1
+http://beout-iptv.com:7777/live/walid/walid1/3567.ts
+#EXTINF:-1,US-Fox-Sports2
+http://beout-iptv.com:7777/live/walid/walid1/3568.ts
+#EXTINF:-1,CA Sportsnet World HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2447.ts
+#EXTINF:-1,CA Sportnet Pacific HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2448.ts
+#EXTINF:-1,CA : ytv
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3041.ts
+#EXTINF:-1,CA : world fishing
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3040.ts
+#EXTINF:-1,CA : w network
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3039.ts
+#EXTINF:-1,CA : vrak tv
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3038.ts
+#EXTINF:-1,CA : tree house
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3037.ts
+#EXTINF:-1,CA : travel channel
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3036.ts
+#EXTINF:-1,CA : tmn
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3035.ts
+#EXTINF:-1,CA : teletoon
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3034.ts
+#EXTINF:-1,CA : super ecran hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3059.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3058.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2449.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2450.ts
+#EXTINF:-1,CA : sportsnet 360 hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3057.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2451.ts
+#EXTINF:-1,CA : spike
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3033.ts
+#EXTINF:-1,CA : slice
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3032.ts
+#EXTINF:-1,CA : silver screen classics
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3031.ts
+#EXTINF:-1,CA : shopping channel
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3030.ts
+#EXTINF:-1,CA : series  hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3056.ts
+#EXTINF:-1,CA : rds2 hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3055.ts
+#EXTINF:-1,CA : rds 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3029.ts
+#EXTINF:-1,CA : peachtree tv
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3028.ts
+#EXTINF:-1,CA : own (oprah winfrew network)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3027.ts
+#EXTINF:-1,CA : omni 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3026.ts
+#EXTINF:-1,CA : omni 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3025.ts
+#EXTINF:-1,CA : oln
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3024.ts
+#EXTINF:-1,CA : nick
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3023.ts
+#EXTINF:-1,CA : much music
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3022.ts
+#EXTINF:-1,CA : mtv canada
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3021.ts
+#EXTINF:-1,CA : movie time
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3020.ts
+#EXTINF:-1,CA : lcn hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3054.ts
+#EXTINF:-1,CA : ici rdi
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3019.ts
+#EXTINF:-1,CA : ici artv
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3018.ts
+#EXTINF:-1,CA : history hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3053.ts
+#EXTINF:-1,CA : gsn
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3017.ts
+#EXTINF:-1,CA : golf channel
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3016.ts
+#EXTINF:-1,CA : g4
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3015.ts
+#EXTINF:-1,CA : fyi
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3014.ts
+#EXTINF:-1,CA : fxx hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3052.ts
+#EXTINF:-1,CA : fox news
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3013.ts
+#EXTINF:-1,CA : fox 25 hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3051.ts
+#EXTINF:-1,CA : evasion
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3012.ts
+#EXTINF:-1,CA : e!
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3011.ts
+#EXTINF:-1,CA : deja view
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3010.ts
+#EXTINF:-1,CA : ctv toronto
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3009.ts
+#EXTINF:-1,CA : cp24
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3008.ts
+#EXTINF:-1,CA : country music television
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3007.ts
+#EXTINF:-1,CA : cottage life
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3006.ts
+#EXTINF:-1,CA : comedy gold
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3005.ts
+#EXTINF:-1,CA : city vancouver
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3004.ts
+#EXTINF:-1,CA : chch
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3003.ts
+#EXTINF:-1,CA : cbc toronto
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3002.ts
+#EXTINF:-1,CA : cartoon network
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3001.ts
+#EXTINF:-1,CA : bravo hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3050.ts
+#EXTINF:-1,CA : bnn
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3000.ts
+#EXTINF:-1,CA : bet: black entertainment television
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2999.ts
+#EXTINF:-1,CA : abc spark
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2998.ts
+#EXTINF:-1,CA : abc hd
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3049.ts
+#EXTINF:-1,USA: World Fashion Channel
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4003.ts
+#EXTINF:-1,USA: TWiT
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4004.ts
+#EXTINF:-1,USA: SEC ESPN NETWORK HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4002.ts
+#EXTINF:-1,USA: PAG HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4005.ts
+#EXTINF:-1,USA: MBL HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4006.ts
+#EXTINF:-1,USA: FREE FORM HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4007.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4009.ts
+#EXTINF:-1,USA: FOX 43
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4008.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/4010.ts
+#EXTINF:-1,MLZ: Astro Sports 4
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3063.ts
+#EXTINF:-1,MLZ: Astro Sports 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3062.ts
+#EXTINF:-1,MLZ: Astro Sports 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3061.ts
+#EXTINF:-1,MLZ: Astro Sports 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3060.ts
+#EXTINF:-1,USA:FIGHT-SPORT
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2277.ts
+#EXTINF:-1,USA:CA | TSN 5*
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/96.ts
+#EXTINF:-1,USA:CA | TSN 4 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/95.ts
+#EXTINF:-1,USA:CA | TSN 3*
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/94.ts
+#EXTINF:-1,USA:CA | TSN 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/93.ts
+#EXTINF:-1,USA:CA | TSN 1*
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/92.ts
+#EXTINF:-1,USA:CA | Sportsnet 360 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/97.ts
+#EXTINF:-1,USA: TBS HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/138.ts
+#EXTINF:-1,USA: ESPN 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/121.ts
+#EXTINF:-1,USA | WWE HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2.ts
+#EXTINF:-1,USA | Versus HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/398.ts
+#EXTINF:-1,USA | TLC HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/86.ts
+#EXTINF:-1,USA | Poker Central
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/88.ts
+#EXTINF:-1,USA | PAC-12 Washington
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/397.ts
+#EXTINF:-1,USA | PAC-12 Oregon
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/395.ts
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/394.ts
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/393.ts
+#EXTINF:-1,USA | PAC-12 Arizona
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/392.ts
+#EXTINF:-1,USA | NFL Network HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/90.ts
+#EXTINF:-1,USA | NBCSN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/98.ts
+#EXTINF:-1,USA | Nat Geo Wild
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/81.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/13.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/14.ts
+#EXTINF:-1,USA | ESPN
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/189.ts
+#EXTINF:-1,USA | A&E HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/50.ts
+#EXTINF:-1,USA TNT HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/122.ts
+#EXTINF:-1,USA SYFY HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/124.ts
+#EXTINF:-1,USA NICKELODEN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/891.ts
+#EXTINF:-1,USA Network (US)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/892.ts
+#EXTINF:-1,USA HISTORY HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/895.ts
+#EXTINF:-1,USA FOX NEWS HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/127.ts
+#EXTINF:-1,USA ESPN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/129.ts
+#EXTINF:-1,USA CW HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/140.ts
+#EXTINF:-1,USA COMEDY CENTRAL HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/141.ts
+#EXTINF:-1,USA CNN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/142.ts
+#EXTINF:-1,USA CBS
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/131.ts
+#EXTINF:-1,USA : CARTOON NETWORK
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/15.ts
+#EXTINF:-1,USA BRAVO HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/128.ts
+#EXTINF:-1,USA ANIMAL PLANET HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/132.ts
+#EXTINF:-1,USA ABC NEWS HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/135.ts
+#EXTINF:-1,USA ABC HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/136.ts
+#EXTINF:-1,USA : Tennis Channel HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2453.ts
+#EXTINF:-1,USA : HBO Zone
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2454.ts
+#EXTINF:-1,USA : HBO Signature
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2458.ts
+#EXTINF:-1,USA : HBO HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2455.ts
+#EXTINF:-1,USA : HBO East
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2456.ts
+#EXTINF:-1,USA : HBO Comedy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2457.ts
+#EXTINF:-1,USA : FXX
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2452.ts
+#EXTINF:-1,USA : DW
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2901.ts
+#EXTINF:-1,USA : DISCCOVERY HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/139.ts
+#EXTINF:-1,USA : CBSN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2222.ts
+#EXTINF:-1,USA : BYU TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/164.ts
+#EXTINF:-1,USA : AMC HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/179.ts
+#EXTINF:-1,US:Sports-Net
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2279.ts
+#EXTINF:-1,US:MelloTV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2281.ts
+#EXTINF:-1,US: USA Network HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1096.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1097.ts
+#EXTINF:-1,US: SPIKE HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1092.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1076.ts
+#EXTINF:-1,US: NBC Extra Time HD1 ( During Games Only )
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1094.ts
+#EXTINF:-1,US: National Geographic
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1095.ts
+#EXTINF:-1,US: HIFI
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1105.ts
+#EXTINF:-1,US: HALLMARK
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1098.ts
+#EXTINF:-1,US: H2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1099.ts
+#EXTINF:-1,US: FX HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1075.ts
+#EXTINF:-1,US: FreeRom HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1077.ts
+#EXTINF:-1,US: FOXX HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1078.ts
+#EXTINF:-1,US: Food Network HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1079.ts
+#EXTINF:-1,US: DIY Network
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1100.ts
+#EXTINF:-1,US: Discovery Science HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1080.ts
+#EXTINF:-1,US: Cinemax East
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1101.ts
+#EXTINF:-1,USA: SEC Network
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3244.ts
+#EXTINF:-1,USA: MSNBC HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3245.ts
+#EXTINF:-1,USA : CNBC
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3246.ts
+#EXTINF:-1,USA : Fight HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3632.ts
+#EXTINF:-1,USA: NHL Network
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3474.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 5 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3475.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 4 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3476.ts
+#EXTINF:-1,USA: MLB Network
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3477.ts
+#EXTINF:-1,USA | Amazing Discoveries HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3494.ts
+#EXTINF:-1,USA NBC Golf
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3485.ts
+#EXTINF:-1,USA Investigation Discovery
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3486.ts
+#EXTINF:-1,USA : TV Land
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3478.ts
+#EXTINF:-1,USA : Starz Encore
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3487.ts
+#EXTINF:-1,USA : Starz East
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3488.ts
+#EXTINF:-1,USA : Starz Comedy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3489.ts
+#EXTINF:-1,USA : Starz Cinema
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3490.ts
+#EXTINF:-1,USA : Showtime West
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3491.ts
+#EXTINF:-1,USA : SHOWTIME HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3492.ts
+#EXTINF:-1,USA : Showtime 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3493.ts
+#EXTINF:-1,USA : NBA TV HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3484.ts
+#EXTINF:-1,USA : Mov HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3479.ts
+#EXTINF:-1,USA : GSN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3480.ts
+#EXTINF:-1,USA : Discovery Velocity
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3481.ts
+#EXTINF:-1,USA : Axn HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3482.ts
+#EXTINF:-1,USA : Axn Black HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3483.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1102.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1103.ts
+#EXTINF:-1,US: BTN Sport HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1081.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1104.ts
+#EXTINF:-1,US: AFN SPORTS HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1082.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1083.ts
+#EXTINF:-1,US: AFN SPORTS
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1084.ts
+#EXTINF:-1,US: AFN SPECTRUM
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1088.ts
+#EXTINF:-1,US: AFN PULSE
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1085.ts
+#EXTINF:-1,US: AFN PRIME PACIFIC
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1086.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1087.ts
+#EXTINF:-1,US: AFN NEWS
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1089.ts
+#EXTINF:-1,US: AFN MOVIE
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1090.ts
+#EXTINF:-1,US: ABC FAMILY
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/1091.ts
